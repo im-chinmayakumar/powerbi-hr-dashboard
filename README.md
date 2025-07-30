@@ -1,17 +1,30 @@
-# Learning by Doing!
+📊 HR Dashboard in Power BI – Real-World Analytics in Action
+I recently built an interactive HR Dashboard using Power BI, and it was an exciting hands-on journey into the world of data storytelling and workforce analytics.
 
-I recently worked on this **HR Dashboard** using **Power BI**, and it was a great hands‑on experience in data visualization and storytelling.  
-From analyzing headcount by job role, gender, and age to visualizing salary trends and join‑date patterns — every chart added a layer of insight.
+From uncovering insights about headcount by job role, gender, and age to identifying salary trends and employee onboarding patterns, each visual was thoughtfully designed to turn raw HR data into actionable insights.
 
-**Key things I practiced:**
-- Bar charts, pie charts, and scatter plots  
-- Cumulative headcount trend  
-- Age and gender distribution  
-- Combining visuals to create an impactful story
+✅ Key Skills & Features Practiced:
+📌 Designed impactful bar charts, pie charts, and scatter plots
 
-Still learning, still improving — and always open to feedback and suggestions!
+📈 Visualized cumulative headcount trends over time
 
-**I’m currently looking for Data Analyst / Business Analyst opportunities.**  
-If you come across any openings or can refer me, I’d be really grateful! 🙏
+👥 Explored age and gender distribution across departments
 
-_#PowerBI #Dashboarding #HRAnalytics #DataVisualization #DataAnalytics #OpenToWork #LearningJourney #SQL #Excel #LinkedInCommunity_
+🧠 Blended multiple visuals into a story-driven dashboard
+
+🛠️ Strengthened skills in Power BI, DAX, data modeling, and clean visualization layouts
+
+🎯 Why this project matters:
+It mirrors real-world HR use cases—helping HR teams make data-driven decisions about hiring, diversity, compensation, and workforce planning.
+
+🚀 I’m currently open to Data Analyst / Business Analyst opportunities
+If you're hiring or can refer me, I’d be truly grateful for the support! 🙏
+Let’s connect and grow together.
+
+#PowerBI #DataAnalytics #HRAnalytics #DashboardDesign #DataVisualization #SQL #Excel #StorytellingWithData #BusinessIntelligence #JobSearch #OpenToWork #LinkedInCommunity
+
+<img width="1315" height="765" alt="Screenshot 2025-06-30 154405" src="https://github.com/user-attachments/assets/7a1b41d5-8d49-4f7d-8bf2-1735f55c254e" />
+
+
+
+
